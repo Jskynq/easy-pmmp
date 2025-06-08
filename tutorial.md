@@ -136,7 +136,6 @@ Solução:
 `chmod +x autoinstall.sh server.sh`
 
 
---
 
 ### ❌ Erro: command not found: git
 
@@ -147,7 +146,6 @@ Solução:
 `pkg install git -y`
 
 
---
 
 ### ❌ Erro: termux-setup-storage: command not found
 
@@ -158,7 +156,6 @@ Solução:
 Usa a versão oficial e mais recente do Termux:
 
 
---
 
 ### ❌ Erro: bash: ./server.sh: No such file or directory
 
@@ -170,7 +167,6 @@ Solução:
 ./server.sh`
 
 
---
 
 ### ❌ Server fecha logo depois de iniciar
 
