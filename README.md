@@ -8,7 +8,7 @@ Scripts feitos pra facilitar a vida de quem quer rodar um servidor PocketMine-MP
 
 ---
 
-#📜 Scripts inclusos
+# 📜 Scripts inclusos
 
 🔧 autoinstall.sh
 
