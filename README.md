@@ -78,19 +78,19 @@ bash server.sh ou ./server.sh
 
 ## ⚠️ Aviso
 
-Esses scripts são simples, diretos e funcionais. Usa por tua conta e risco 😎
+Esses scripts são simples, diretos e funcionais. Usa por tua conta e risco!
 Se achar bug ou quiser ajudar, manda um PR ou abre uma issue!
 
 
 ---
 
-# 👨‍💻 Autor
+## 👨‍💻 Autor
 
 Feito com 💚 por Jskynq.
 
 > “Quem precisa de PC quando tem um Android bem configurado?” – algum dev brabo aí
 
-##informações do PMMP
+## ℹ️informações do PMMP
 
 ## :x: O PocketMine-MP NÃO é um software de servidor de Minecraft vanilla.
  **Ele não é adequado para hospedar servidores de sobrevivência vanilla.** Ele não possui muitos recursos do jogo vanilla, como geração de mundos vanilla, redstone, IA de mobs e vários outros recursos. Se você quer apenas jogar **multijogador de sobrevivência vanilla**, considere usar o [software oficial de servidor Minecraft: Bedrock](https://minecraft.net/download/server/bedrock) em vez do PocketMine-MP. Se essa não for uma opção para você, você pode adicionar alguns dos recursos ausentes do PocketMine-MP usando plugins do [Poggit](https://poggit.pmmp.io/plugins) ou escrever plugins para implementá-los você mesmo.
