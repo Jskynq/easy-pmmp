@@ -122,3 +122,71 @@ Se curtiu, dá aquela moral e deixa uma estrela no repo ⭐
 Se tu já tem o Termux instalado e só quer botar o server pra rodar sem frescura, cola esse comando aqui no Termux 
 
 `pkg update -y && pkg upgrade -y && pkg install git -y && git clone https://github.com/Jskynq/easy-pmmp.git && cd easy-pmmp && chmod +x autoinstall.sh server.sh && ./autoinstall.sh`
+
+___
+
+## 🛠️ Troubleshooting (deu ruim? relaxa, tem jeito)
+
+### ❌ Erro: Permission denied
+
+- Causa: tu esqueceu de dar permissão pros scripts .sh.
+
+Solução:
+
+`chmod +x autoinstall.sh server.sh`
+
+
+---
+
+### ❌ Erro: command not found: git
+
+- Causa: git não tá instalado.
+
+Solução:
+
+`pkg install git -y`
+
+
+---
+
+### ❌ Erro: termux-setup-storage: command not found
+
+- Causa: Tu tá usando um Termux modificado ou muito desatualizado.
+
+Solução:
+
+Usa a versão oficial e mais recente do Termux:
+
+
+---
+
+### ❌ Erro: bash: ./server.sh: No such file or directory
+
+- Causa: Provavelmente tu tá numa pasta errada.
+
+Solução:
+
+`cd PMMP-Termux-Tools
+./server.sh`
+
+
+---
+
+### ❌ Server fecha logo depois de iniciar
+
+- Causa: Alguma dependência faltando, ou tu tá usando Android antigo.
+
+Solução:
+
+Confere se rodou o autoinstall.sh até o fim
+
+Atualiza tudo:
+
+
+`pkg update -y && pkg upgrade -y`
+
+Reinicia o Termux e tenta de novo
+
+
+
+---
