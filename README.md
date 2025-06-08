@@ -76,7 +76,7 @@ bash server.sh ou ./server.sh
 
 ---
 
-#⚠️ Aviso
+## ⚠️ Aviso
 
 Esses scripts são simples, diretos e funcionais. Usa por tua conta e risco 😎
 Se achar bug ou quiser ajudar, manda um PR ou abre uma issue!
@@ -84,7 +84,7 @@ Se achar bug ou quiser ajudar, manda um PR ou abre uma issue!
 
 ---
 
-#👨‍💻 Autor
+# 👨‍💻 Autor
 
 Feito com 💚 por Jskynq.
 
