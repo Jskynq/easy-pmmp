@@ -61,7 +61,9 @@ Exemplo: `ls`
 A saída deve ser algo como:
 `LICENSE README.md tutorial.md
  autoinstall.sh server.sh     `
+
 Apague os inúteis como os que nao terminam com .sh com
+
 `rm -rf ./LICENSE ./README.md ./tutorial.md`
 
 
