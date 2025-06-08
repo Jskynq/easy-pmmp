@@ -94,4 +94,6 @@ ___
 
 - Após isso o mundo já vai estar rodando pela primeira vez e você pode testar isso abrindo seu Minecraft e entrando na lan que ele abriu
 
+- Quando o mundo terminar de gerar você vai ter acesso a linha de comando do mundo onde pode usar comandos tipo `stop` para parar o server ou `help` para ter a lista completa de comandos
+
 ### ⚠️ - Aviso! Isso **NÃO** vai abrir o server pra qualquer pessoa!. Só vai funcionar na sua lan, caso queira fazer isso terá que ver outras opções como abrir porta do seu roteador e passar o seu ip público ou pode também usar um provedor de domínio mesmo que temporário como o ngrok
