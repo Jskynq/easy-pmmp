@@ -19,4 +19,4 @@ Após abrir seu termux terá duas formas de instalar o pmmp
 
 Pra situação 1:
 execute no terminal o seguinte comando
-'termux-setup-storage'
+`termux-setup-storage`
