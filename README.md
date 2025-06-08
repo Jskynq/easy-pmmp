@@ -64,7 +64,7 @@ bash server.sh ou ./server.sh
 
 ---
 
-🚧 To-do (ideias futuras)
+## 🚧 To-do (ideias futuras)
 
 [  ] Menu interativo
 
