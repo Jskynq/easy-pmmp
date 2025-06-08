@@ -71,3 +71,7 @@ A saída deve ser algo como:
 ___
 
 ## 🌀 Passo 3 - Dando permissão para os scripts 
+
+- Essa parte é bem simples apenas antes de executá-los execute isso para eles terem permissão de rodar
+
+`chmod +x server.sh autoinstall.sh`
