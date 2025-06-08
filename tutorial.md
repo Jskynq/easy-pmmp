@@ -94,4 +94,4 @@ ___
 
 - Após isso o mundo já vai estar rodando pela primeira vez e você pode testar isso abrindo seu Minecraft e entrando na lan que ele abriu
 
-### ⚠️ - Aviso! Isso **NÃO** vai abrir o server pra qualquer pessoa! só vai funcionar na sua lan caso queira fazer isso terá que ver outras opções como abrir porta do seu roteador e passar o seu ip público ou pode também usar um provedor de domínio mesmo que temporário como o ngrok
+### ⚠️ - Aviso! Isso **NÃO** vai abrir o server pra qualquer pessoa!. Só vai funcionar na sua lan caso queira fazer isso terá que ver outras opções como abrir porta do seu roteador e passar o seu ip público ou pode também usar um provedor de domínio mesmo que temporário como o ngrok
