@@ -117,4 +117,4 @@ Se curtiu, dá aquela moral e deixa uma estrela no repo ⭐
 
 Se tu já tem o Termux instalado e só quer botar o server pra rodar sem frescura, cola esse comando aqui no Termux 
 
-pkg update -y && pkg upgrade -y && pkg install git -y && git clone https://github.com/Jskynq/easy-pmmp.git && cd easy-pmmp && chmod +x autoinstall.sh server.sh && ./autoinstall.sh
+`pkg update -y && pkg upgrade -y && pkg install git -y && git clone https://github.com/Jskynq/easy-pmmp.git && cd easy-pmmp && chmod +x autoinstall.sh server.sh && ./autoinstall.sh`
