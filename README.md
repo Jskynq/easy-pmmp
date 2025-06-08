@@ -54,7 +54,7 @@ bash server.sh ou ./server.sh
 
 📱 Android com Termux
 
-🔀 Arquitetura ARM64 (testado no Galaxy A54)
+🔀 Arquitetura ARM64 (testado no Samsung Galaxy A54 e A34)
 
 ✅ Permissão pra executar scripts com bash
 
