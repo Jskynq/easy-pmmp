@@ -1,6 +1,9 @@
 # easy-pmmp
 Repositório para o projeto de um jeito mais simples de usar o pmmp
 
+## :x: O PocketMine-MP NÃO é um software de servidor de Minecraft vanilla.
+ **Ele não é adequado para hospedar servidores de sobrevivência vanilla.** Ele não possui muitos recursos do jogo vanilla, como geração de mundos vanilla, redstone, IA de mobs e vários outros recursos. Se você quer apenas jogar **multijogador de sobrevivência vanilla**, considere usar o [software oficial de servidor Minecraft: Bedrock](https://minecraft.net/download/server/bedrock) em vez do PocketMine-MP. Se essa não for uma opção para você, você pode adicionar alguns dos recursos ausentes do PocketMine-MP usando plugins do [Poggit](https://poggit.pmmp.io/plugins) ou escrever plugins para implementá-los você mesmo.
+
 ## Contribuindo para o PocketMine-MP 
 O PocketMine-MP aceita contribuições da comunidade! Os seguintes recursos serão úteis se você quiser contribuir para o PocketMine-MP. * [Construindo e executando o PocketMine-MP a partir do código-fonte](BUILDING.md) * [Diretrizes de Contribuição](CONTRIBUTING.md) Novo por aqui? Confira [problemas com o rótulo "Tarefa fácil"](https://github.com/pmmp/PocketMine-MP/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22Easy%20task%22) para ver o que você pode fazer para se familiarizar com a base de código. 
 ## Doe
