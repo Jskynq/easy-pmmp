@@ -75,3 +75,7 @@ ___
 - Essa parte é bem simples apenas antes de executá-los execute isso para eles terem permissão de rodar
 
 `chmod +x server.sh autoinstall.sh`
+
+___
+
+## 🚀 Passo 4 - Instalando o PocketMine-MP e o ZPHP
