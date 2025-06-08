@@ -1,14 +1,14 @@
 # easy-pmmp
 Repositório para o projeto de um jeito mais simples de usar o pmmp
 
-## 🟩 PMMP Termux Tools
+# 🟩 PMMP Termux Tools
 
 Scripts feitos pra facilitar a vida de quem quer rodar um servidor PocketMine-MP direto no Android usando o Termux. Tudo rápido, automático e sem enrolação.
 
 
 ---
 
-# 📜 Scripts inclusos
+## 📜 Scripts inclusos
 
 🔧 autoinstall.sh
 
