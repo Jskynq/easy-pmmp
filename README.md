@@ -52,7 +52,7 @@ bash server.sh ou ./server.sh
 
 ## ⚙️ Requisitos
 
-📱 Android com Termux
+📱 Android com Termux instalado (baixa na play store)
 
 🔀 Arquitetura ARM64 (testado no Samsung Galaxy A54 e A34)
 
