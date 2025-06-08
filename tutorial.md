@@ -90,4 +90,4 @@ ___
 
 ## 🕹 Pós instalação
 
-- Após a instalação ele deve te jogar já dentro do PMMP perguntando o idioma, infelizmente não tem o português então tudo que pode fazer é fazer o setup em inglês mas ele é bem simples e vai perguntar algumas coisas tipo qual vai ser o nome do mundo, porta, modo de jogo, quem vai ser op e entre outras coisas mass para oque voce nao souber oq responder so aperta o enter que ele vai escolher a certa msm
+- Após a instalação ele deve te jogar já dentro do PMMP perguntando o idioma, infelizmente não tem o português então tudo que você pode fazer é fazer o setup em inglês mas ele é bem simples e vai perguntar algumas coisas tipo qual vai ser o nome do mundo, porta, modo de jogo, quem vai ser op e entre outras coisas mass para oque voce nao souber oq responder so aperta o enter que ele vai escolher a certa msm
