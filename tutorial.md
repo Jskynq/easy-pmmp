@@ -84,4 +84,4 @@ Com tudo pronto agora é só rodar o script de instalação com
 
 `./autoinstall.sh`
 
-- Após isso que meu script entra em ação, ele vai baixar tudo que for nessesário automaticamente e também baixa o zphp que é uma versão mesclada por mim que basicamente torna a linguagem de PHP muito mais rápida e eficiente de forma simples e descomplicada 
+- Após isso que meu script entra em ação. Ele vai baixar tudo que for nessesário automaticamente e também baixa o zphp que é uma versão mesclada por mim que basicamente torna a linguagem de PHP muito mais rápida e eficiente de forma simples e descomplicada 
