@@ -59,6 +59,6 @@ Use ls pra ler e rm -rf para apagar
 
 Exemplo: `ls`
 A saída deve ser algo como:
-``
+`LICENSE `
 
 
