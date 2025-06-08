@@ -56,7 +56,7 @@ bash server.sh ou ./server.sh
 
 🔀 Arquitetura ARM64 (testado no Samsung Galaxy A54 e A34) 
 
-🛠 Requisitos mínimos/recomendados pra rodar o server: 4gb/8gb de ram, cerca de 200k/500k no antutu, 5gb+ de armazenamento livre
+🛠 Requisitos mínimos/recomendados pra rodar o server: 4gb/8gb de ram, cerca de 200k/500k no antutu e 5gb+ de armazenamento livre
 
 ✅ Permissão pra executar scripts com bash (chmod +x nomedoscript.sh)
 
