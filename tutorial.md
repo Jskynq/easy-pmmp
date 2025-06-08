@@ -18,7 +18,14 @@ Após abrir seu termux terá duas formas de instalar o pmmp
 2. Clonando este git diretamente dentro do termux
 
 Pra situação 1:
+
 execute no terminal o seguinte comando
-`termux-setup-storage` após isso o app irá pedir uma permissão pra acessar seu armazenamento interno, aceite a permissão para prosseguir
-localize os arquivos .sh dentro do seu celular se baixou eles por exemplo do seu navegador ou aplicativo do GitHub eles estarão pro termux no diretório "/sdcard/Downloads" se for o caso execute isso para inserir-Los dentro do Termux 
+
+`termux-setup-storage`
+
+Após isso o app irá pedir uma permissão pra acessar seu armazenamento interno, aceite a permissão para prosseguir.
+
+localize os arquivos .sh dentro do seu celular, se baixou eles por exemplo do seu navegador ou aplicativo do GitHub eles estarão pro termux no diretório 
+"/sdcard/Downloads" 
+se for o caso execute isso para inserir-Los dentro do Termux 
 `cp /sdcard/Downloads/autoinstall.sh ./ && cp /sdcard/Downloads/server.sh ./`
