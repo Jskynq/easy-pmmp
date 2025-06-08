@@ -98,4 +98,17 @@ ___
 
 - Quando o mundo fechar ou você fechar o termux msm para ter acesso ao painel básico de controle dele use `./server.sh`
 
-### ⚠️ - Aviso! Isso **NÃO** vai abrir o server pra qualquer pessoa!. Só vai funcionar na sua lan, caso queira fazer isso terá que ver outras opções como abrir porta do seu roteador e passar o seu ip público ou pode também usar um provedor de domínio mesmo que temporário como o ngrok
+### ⚠️ - Aviso! 
+
+Isso **NÃO** vai abrir o server pra qualquer pessoa!. Só vai funcionar na sua lan, caso queira fazer isso terá que ver outras opções como abrir porta do seu roteador e passar o seu ip público ou pode também usar um provedor de domínio mesmo que temporário como o ngrok
+
+---
+
+## ✅ Pronto!
+
+Agora tu já tem um server PocketMine-MP rodando no Android, direto do Termux. Pode jogar com os amigos, testar plugins e fazer tudo que um verdadeiro admin brabo faz.
+
+Se curtiu, dá aquela moral e deixa uma estrela no repo ⭐
+
+
+---
