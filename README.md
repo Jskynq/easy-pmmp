@@ -9,7 +9,7 @@ Scripts feitos pra facilitar a vida de quem quer rodar um servidor PocketMine-MP
 
 🔧 autoinstall.sh
 
-Script de autoinstalação do PMMP.
+Script de auto-instalação do PMMP.
 
 ✅ O que ele faz:
 
