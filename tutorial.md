@@ -51,4 +51,14 @@ Isso atualizará o Termux para podermos baixar os pacotes, dependendo da sua Int
 
 Após instalar você agora terá que informar o git da onde clonar usando o seguinte comando
 
-`oii`
+`git clone https://github.com/Jskynq/easy-pmmp.git`
+
+Após isso terá os arquivos dentro do seu Termux porém pode ser que venham algums arquivos do repositório como esse documento aqui mesmo mas caso queira apagá-los vou ensinar como listar os que veio e como apagar
+
+Use ls pra ler e rm -rf para apagar 
+
+Exemplo: `ls`
+A saída deve ser algo como:
+``
+
+
