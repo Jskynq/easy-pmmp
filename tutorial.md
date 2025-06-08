@@ -32,3 +32,5 @@ Após abrir seu termux terá duas formas de instalar o pmmp
 - Se for o caso execute isso para inserir-Los dentro do Termux 
 
 `cp /sdcard/Downloads/autoinstall.sh ./ && cp /sdcard/Downloads/server.sh ./`
+
+*Pronto! Se tudo for certo os arquivos agora devem estar dentro do seu Termux*
