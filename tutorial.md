@@ -53,6 +53,10 @@ ___
 
 `git clone https://github.com/Jskynq/easy-pmmp.git`
 
+- Entre dentro da pasta do repositório usando o cd
+
+`cd ./easy-pmmp`
+
 - Após isso terá os arquivos dentro do seu Termux porém pode ser que venham algums arquivos do repositório como esse documento aqui mesmo mas caso queira apagá-los vou ensinar como listar os que veio e como apagar
 
 - Use ls pra ler e rm -rf para apagar 
