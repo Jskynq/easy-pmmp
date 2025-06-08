@@ -1,7 +1,7 @@
 # easy-pmmp
 Repositório para o projeto de um jeito mais simples de usar o pmmp
 
-## Contribuindo com o PocketMine-MP
+# Contribuindo com o PocketMine-MP
 
 O PocketMine-MP aceita contribuições da comunidade! Se tu quiser ajudar no projeto, esses links vão te dar uma força:
 
