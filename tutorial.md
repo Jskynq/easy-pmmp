@@ -40,3 +40,15 @@ ___
 ___
 
 *Agora pra situação 2:*
+
+Execute no terminal o seguinte comando
+
+`pkg update && pkg upgrade`
+
+Isso atualizará o Termux para podermos baixar os pacotes, dependendo da sua Internet ou quantidade de pacotes desatualizados pode demorar um pouco. Feito isso instale o git para fazer a clonagem
+
+`pkg install git`
+
+Após instalar você agora terá que informar o git da onde clonar usando o seguinte comando
+
+`oii`
