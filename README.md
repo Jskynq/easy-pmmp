@@ -105,6 +105,7 @@ O PocketMine-MP aceita contribuições da comunidade! Os seguintes recursos ser�
 - [Patreon](https://www.patreon.com/pocketminemp)
  - Bitcoin (BTC): `171u8K9e4FtU6j3e5sqNoxKUgEw9qWQdRV`
  - Stellar Lumens (XLM): `GAAC5WZ33HCTE3BFJFZJXONMEIBNHFLBXM2HJVAZHXXPYA3HP5XPPS7T` 
+
 Desde já obrigado pelo seu apoio! 
 
 ## Informações sobre a licença
