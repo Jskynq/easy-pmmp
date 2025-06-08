@@ -20,7 +20,7 @@ Baixa a versão mais recente do PMMP (via releases)
 Configura tudo pra tu já sair usando
 
 
-#▶️ Como usar:
+▶️ Como usar:
 
 bash autoinstall.sh ./autoinstall.sh
 
@@ -31,11 +31,11 @@ bash autoinstall.sh ./autoinstall.sh
 
 ---
 
-#🛠️ server.sh
+🛠️ server.sh
 
 Script de gerenciamento do servidor já instalado.
 
-#✅ O que ele faz:
+✅ O que ele faz:
 
 Inicia o servidor
 
@@ -43,14 +43,14 @@ Mostra logs e o console em tempo real
 
 Atualiza a versão do servidor
 
-#▶️ Como usar:
+▶️ Como usar:
 
 bash server.sh ou ./server.sh
 
 
 ---
 
-⚙️ Requisitos
+## ⚙️ Requisitos
 
 📱 Android com Termux
 
