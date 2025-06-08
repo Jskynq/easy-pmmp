@@ -108,14 +108,6 @@ Isso **NÃO** vai abrir o server pra qualquer pessoa!. Só vai funcionar na sua 
 
 ---
 
-## ✅ Pronto!
-
-Agora tu já tem um server PocketMine-MP rodando no Android, direto do Termux. Pode jogar com os amigos, testar plugins e fazer tudo que um verdadeiro admin brabo faz.
-
-Se curtiu, dá aquela moral e deixa uma estrela no repo ⭐
-
-
----
 
 ## ⚙️ Instalação Rápida (Modo Turbo)
 
@@ -184,5 +176,13 @@ Atualiza tudo:
 Reinicia o Termux e tenta de novo
 
 
+
+---
+
+## ✅ Pronto!
+
+Agora tu já tem um server PocketMine-MP rodando no Android, direto do Termux. Pode jogar com os amigos, testar plugins e fazer tudo que um verdadeiro admin brabo faz.
+
+Se curtiu, dá aquela moral e deixa uma estrela no repo ⭐
 
 ---
