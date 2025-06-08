@@ -66,5 +66,5 @@ A saída deve ser algo como:
 
 `rm -rf ./LICENSE ./README.md ./tutorial.md`
 
-*Feito isso terá os suficiente pra próxima etapa.*
+*Feito isso terá os itens necessários para a próxima etapa.*
 
