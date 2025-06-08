@@ -70,4 +70,4 @@ A saída deve ser algo como:
 
 ___
 
-## 🌀 Passo 3 - 
+## 🌀 Passo 3 - Dando permissão para os scripts 
