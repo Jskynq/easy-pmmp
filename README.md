@@ -56,7 +56,7 @@ bash server.sh ou ./server.sh
 
 🔀 Arquitetura ARM64 (testado no Samsung Galaxy A54 e A34)
 
-✅ Permissão pra executar scripts com bash
+✅ Permissão pra executar scripts com bash (chmod +x nomedoscript.sh)
 
 
 
