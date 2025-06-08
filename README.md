@@ -1,6 +1,100 @@
 # easy-pmmp
 Repositório para o projeto de um jeito mais simples de usar o pmmp
 
+## 🟩 PMMP Termux Tools
+
+Scripts feitos pra facilitar a vida de quem quer rodar um servidor PocketMine-MP direto no Android usando o Termux. Tudo rápido, automático e sem enrolação.
+
+
+---
+
+#📜 Scripts inclusos
+
+🔧 autoinstall.sh
+
+Script de autoinstalação do PMMP.
+
+✅ O que ele faz:
+
+Instala todas as dependências necessárias
+
+Baixa a versão mais recente do PMMP (via releases)
+
+Configura tudo pra tu já sair usando
+
+
+#▶️ Como usar:
+
+bash autoinstall.sh ./autoinstall.sh
+
+> 📦 Esse script baixa os arquivos direto dos Releases do GitHub, então sempre pega a versão mais nova (ou a que tu deixar lá no repositório).
+
+
+
+
+---
+
+#🛠️ server.sh
+
+Script de gerenciamento do servidor já instalado.
+
+#✅ O que ele faz:
+
+Inicia o servidor
+
+Mostra logs e o console em tempo real
+
+Atualiza a versão do servidor
+
+#▶️ Como usar:
+
+bash server.sh ou ./server.sh
+
+
+---
+
+⚙️ Requisitos
+
+📱 Android com Termux
+
+🔀 Arquitetura ARM64 (testado no Galaxy A54)
+
+✅ Permissão pra executar scripts com bash
+
+
+
+---
+
+🚧 To-do (ideias futuras)
+
+[ ] Menu interativo
+
+[ ] Instalar versões específicas
+
+[ ] Gerenciar plugins
+
+[ ] Atualizações automáticas
+
+
+
+---
+
+#⚠️ Aviso
+
+Esses scripts são simples, diretos e funcionais. Usa por tua conta e risco 😎
+Se achar bug ou quiser ajudar, manda um PR ou abre uma issue!
+
+
+---
+
+#👨‍💻 Autor
+
+Feito com 💚 por Jskynq.
+
+> “Quem precisa de PC quando tem um Android bem configurado?” – algum dev brabo aí
+
+##informações do PMMP
+
 ## :x: O PocketMine-MP NÃO é um software de servidor de Minecraft vanilla.
  **Ele não é adequado para hospedar servidores de sobrevivência vanilla.** Ele não possui muitos recursos do jogo vanilla, como geração de mundos vanilla, redstone, IA de mobs e vários outros recursos. Se você quer apenas jogar **multijogador de sobrevivência vanilla**, considere usar o [software oficial de servidor Minecraft: Bedrock](https://minecraft.net/download/server/bedrock) em vez do PocketMine-MP. Se essa não for uma opção para você, você pode adicionar alguns dos recursos ausentes do PocketMine-MP usando plugins do [Poggit](https://poggit.pmmp.io/plugins) ou escrever plugins para implementá-los você mesmo.
 
