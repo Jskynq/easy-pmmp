@@ -64,13 +64,13 @@ bash server.sh ou ./server.sh
 
 🚧 To-do (ideias futuras)
 
-[ ] Menu interativo
+[  ] Menu interativo
 
-[ ] Instalar versões específicas
+[  ] Instalar versões específicas
 
-[ ] Gerenciar plugins
+[  ] Gerenciar plugins
 
-[ ] Atualizações automáticas
+[  ] Atualizações automáticas
 
 
 
