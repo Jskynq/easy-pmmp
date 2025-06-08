@@ -99,8 +99,10 @@ Feito com 💚 por Jskynq.
 
 ## Contribuindo para o PocketMine-MP 
 O PocketMine-MP aceita contribuições da comunidade! Os seguintes recursos serão úteis se você quiser contribuir para o PocketMine-MP. para ver o que você pode fazer para se familiarizar com a base de código. 
+
 ## Doe
- O PocketMine-MP é gratuito, mas exige muito tempo e esforço de voluntários não remunerados para ser desenvolvido. Doações nos permitem continuar oferecendo suporte para novas versões e adicionando recursos que seus jogadores adoram. Você pode apoiar o desenvolvimento usando os seguintes métodos: - [Patreon](https://www.patreon.com/pocketminemp)
+ O PocketMine-MP é gratuito, mas exige muito tempo e esforço de voluntários não remunerados para ser desenvolvido. Doações nos permitem continuar oferecendo suporte para novas versões e adicionando recursos que seus jogadores adoram. Você pode apoiar o desenvolvimento usando os seguintes métodos: 
+- [Patreon](https://www.patreon.com/pocketminemp)
  - Bitcoin (BTC): `171u8K9e4FtU6j3e5sqNoxKUgEw9qWQdRV`
  - Stellar Lumens (XLM): `GAAC5WZ33HCTE3BFJFZJXONMEIBNHFLBXM2HJVAZHXXPYA3HP5XPPS7T` Obrigado pelo seu apoio! 
 
