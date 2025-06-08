@@ -17,6 +17,8 @@ Após abrir seu termux terá duas formas de instalar o pmmp
 1. Usando um arquivo já baixado por você na parte de lançamentos desse repositório
 2. Clonando este git diretamente dentro do termux
 
+___
+
 *Pra situação 1:*
 
 - Execute no terminal o seguinte comando
