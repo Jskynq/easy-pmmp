@@ -41,29 +41,30 @@ ___
 
 *Agora pra situação 2:*
 
-Execute no terminal o seguinte comando
+- Execute no terminal o seguinte comando
 
 `pkg update && pkg upgrade`
 
-Isso atualizará o Termux para podermos baixar os pacotes, dependendo da sua Internet ou quantidade de pacotes desatualizados pode demorar um pouco. Feito isso instale o git para fazer a clonagem
+- Isso atualizará o Termux para podermos baixar os pacotes, dependendo da sua Internet ou quantidade de pacotes desatualizados pode demorar um pouco. Feito isso instale o git para fazer a clonagem
 
 `pkg install git`
 
-Após instalar você agora terá que informar o git da onde clonar usando o seguinte comando
+- Após instalar você agora terá que informar o git da onde clonar usando o seguinte comando
 
 `git clone https://github.com/Jskynq/easy-pmmp.git`
 
-Após isso terá os arquivos dentro do seu Termux porém pode ser que venham algums arquivos do repositório como esse documento aqui mesmo mas caso queira apagá-los vou ensinar como listar os que veio e como apagar
+- Após isso terá os arquivos dentro do seu Termux porém pode ser que venham algums arquivos do repositório como esse documento aqui mesmo mas caso queira apagá-los vou ensinar como listar os que veio e como apagar
 
-Use ls pra ler e rm -rf para apagar 
+- Use ls pra ler e rm -rf para apagar 
 
 Exemplo: `ls`
 A saída deve ser algo como:
 `LICENSE README.md tutorial.md
  autoinstall.sh server.sh     `
 
-Apague os inúteis como os que nao terminam com .sh com
+- Apague os inúteis como os que nao terminam com .sh com
 
 `rm -rf ./LICENSE ./README.md ./tutorial.md`
 
+*Feito isso terá os suficiente pra próxima etapa.*
 
