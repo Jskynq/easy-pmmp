@@ -98,7 +98,7 @@ Feito com 💚 por Jskynq.
  **Ele não é adequado para hospedar servidores de sobrevivência vanilla.** Ele não possui muitos recursos do jogo vanilla, como geração de mundos vanilla, redstone, IA de mobs e vários outros recursos. Se você quer apenas jogar **multijogador de sobrevivência vanilla**, considere usar o [software oficial de servidor Minecraft: Bedrock](https://minecraft.net/download/server/bedrock) em vez do PocketMine-MP. Se essa não for uma opção para você, você pode adicionar alguns dos recursos ausentes do PocketMine-MP usando plugins do [Poggit](https://poggit.pmmp.io/plugins) ou escrever plugins para implementá-los você mesmo.
 
 ## Contribuindo para o PocketMine-MP 
-O PocketMine-MP aceita contribuições da comunidade! Os seguintes recursos serão úteis se você quiser contribuir para o PocketMine-MP. para ver o que você pode fazer para se familiarizar com a base de código. 
+O PocketMine-MP aceita contribuições da comunidade! Os seguintes recursos serão úteis se você quiser contribuir para o PocketMine-MP. Acesse a [página oficial dos donos](https://github.com/pmmp/PocketMine-MP) para ver o que você pode fazer para se familiarizar com a base de código. 
 
 ## Doe
  O PocketMine-MP é gratuito, mas exige muito tempo e esforço de voluntários não remunerados para ser desenvolvido. Doações nos permitem continuar oferecendo suporte para novas versões e adicionando recursos que seus jogadores adoram. Você pode apoiar o desenvolvimento usando os seguintes métodos: 
