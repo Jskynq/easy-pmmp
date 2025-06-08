@@ -91,3 +91,7 @@ ___
 ## 🕹 Pós instalação
 
 - Após a instalação ele deve te jogar já dentro do PMMP perguntando o idioma, infelizmente não tem o português então tudo que você pode fazer é fazer o setup em inglês mas ele é bem simples e vai perguntar algumas coisas tipo qual vai ser o nome do mundo, porta, modo de jogo, quem vai ser op e entre outras coisas mas para oque você nao souber oq responder so aperta o enter que ele vai escolher a certa msm
+
+- Após isso o mundo já vai estar rodando pela primeira vez e você pode testar isso abrindo seu Minecraft e entrando na lan que ele abriu
+
+*⚠️ Isso >NÃO< vai abrir o server pra qualquer pessoa! só vai funcionar na sua lan caso queira fazer isso terá que ver outras opções como abrir porta do seu roteador e passar o seu ip público ou pode também usar um provedor de domínio mesmo que temporário como o ngrok*
