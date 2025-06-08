@@ -22,7 +22,7 @@ Configura tudo pra tu já sair usando
 
 ▶️ Como usar:
 
-bash autoinstall.sh ./autoinstall.sh
+bash autoinstall.sh ou ./autoinstall.sh
 
 > 📦 Esse script baixa os arquivos direto dos Releases do GitHub, então sempre pega a versão mais nova (ou a que tu deixar lá no repositório).
 
