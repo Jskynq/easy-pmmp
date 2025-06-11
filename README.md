@@ -1,3 +1,6 @@
+# 🚨 Script quebrado na nova atualização do termux ainda em resolução!! todas as dependências foram removidas e o script não funcionará até um hotfix
+
+
 # 🟩 Easy PMMP Termux 
 
 Scripts feitos pra facilitar a vida de quem quer rodar um servidor PocketMine-MP direto no Android usando o Termux. Tudo rápido, automático e sem enrolação para maiores detalhes e ajuda acesse o [tutorial/manual](https://github.com/Jskynq/easy-pmmp/blob/main/tutorial.md).
