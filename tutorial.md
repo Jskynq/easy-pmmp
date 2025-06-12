@@ -4,6 +4,14 @@ Esse tutorial ensina como usar os scripts `autoinstall.sh` e `server.sh` no **Te
 
 ---
 
+## ⚙️ Instalação Rápida (Modo Turbo)
+
+Se tu já tem o Termux instalado e só quer botar o server pra rodar sem frescura, cola esse comando aqui no Termux 
+
+`pkg update -y && pkg upgrade -y && pkg install git -y && git clone https://github.com/Jskynq/easy-pmmp.git && cd easy-pmmp && chmod +x autoinstall.sh server.sh && ./autoinstall.sh`
+
+___
+
 ## 📲 Passo 1 — Instalar o Termux
 
 Se ainda não tem o Termux, instale-o a partir da [Play Store](https://play.google.com/store/apps/details?id=com.termux), [f-droid](https://f-droid.org/pt_BR/packages/com.termux/) e direto do próprio [GitHub](https://github.com/termux/termux-app/releases) caso tenha baixado o arquivo .apk vá para o explorador de arquivos do seu celular e instale-o
@@ -107,15 +115,6 @@ ___
 Isso **NÃO** vai abrir o server pra qualquer pessoa!. Só vai funcionar na sua lan, caso queira fazer isso terá que ver outras opções como abrir porta do seu roteador e passar o seu ip público ou pode também usar um provedor de domínio mesmo que temporário como o ngrok
 
 ---
-
-
-## ⚙️ Instalação Rápida (Modo Turbo)
-
-Se tu já tem o Termux instalado e só quer botar o server pra rodar sem frescura, cola esse comando aqui no Termux 
-
-`pkg update -y && pkg upgrade -y && pkg install git -y && git clone https://github.com/Jskynq/easy-pmmp.git && cd easy-pmmp && chmod +x autoinstall.sh server.sh && ./autoinstall.sh`
-
-___
 
 ## 🛠️ Troubleshooting (deu ruim? relaxa, tem jeito)
 
