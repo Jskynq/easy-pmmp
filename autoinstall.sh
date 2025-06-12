@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-#Este script foi feito por Xzgn e nao deve ser usado sem o devido crédito e nem deve ser modificado sem autorização
+#Olá! tudo bem? se está aqui pode dar uma estrela no meu repo? eu sou novo por aqui então por isso tudo ser bem simples mas eu prometo que vou me esforçar pra fazer algo além de funcional!
 
 clear
 
@@ -26,13 +26,13 @@ for pkg in "${PACOTES[@]}"; do
   pkg install -y "$pkg" > /dev/null 2>&1
 done
 
-echo "Pacotes instalados com sucesso 🚀"
+echo "Pacotes instalados com sucesso ðŸš€"
 sleep 1
 
-echo "Configurando diretórios..."
+echo "Configurando diretÃ³rios..."
 
 if [ -d "./mcserver" ]; then
-  echo "Pasta mcserver j� existe. Usando a existente..."
+  echo "Pasta mcserver já existe. Usando a existente..."
 else
   mkdir ./mcserver
 fi
@@ -64,10 +64,10 @@ echo "Apagando o arquivo baixado do zphp..."
 sleep 1
 rm -rf ./zphp.zip
 
-echo "Operações concluidas com sucesso!"
+echo "OperaÃ§Ãµes concluidas com sucesso!"
 sleep 0.5
 
-echo "Realizando primeira inicialização do pmmp"
+echo "Realizando primeira inicializaÃ§Ã£o do pmmp"
 chmod +x ./start.sh
 ./start.sh
 
