@@ -118,8 +118,7 @@ Isso **NÃO** vai abrir o server pra qualquer pessoa!. Só vai funcionar na sua 
 
 ## 🛠️ Troubleshooting (deu ruim? relaxa, tem jeito)
 
-### ❌ Erro: error: "/data/data/com.termux/files/home/easy-pmmp/mcserver/bin/php7/bin/php" has unexpected e_type: 2 WARNING: Server did not shut down correctly!
-(code 1)
+### ❌ Erro: error: "/data/data/com.termux/files/home/easy-pmmp/mcserver/bin/php7/bin/php" has unexpected e_type: 2 WARNING: Server did not shut down correctly! (code 1)
 
 - Causa: Nova versão do termux na play story está com issue com o PHP
 
