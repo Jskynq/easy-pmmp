@@ -4,7 +4,7 @@ Esse tutorial ensina como usar os scripts `autoinstall.sh` e `server.sh` no **Te
 
 ---
 
-## ⚙️ Instalação Rápida (Modo Turbo)
+## ⚙️ Instalação Rápida
 
 Se tu já tem o Termux instalado e só quer botar o server pra rodar sem frescura, cola esse comando aqui no Termux 
 
