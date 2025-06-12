@@ -14,7 +14,7 @@ ___
 
 ## 📲 Passo 1 — Instalar o Termux
 
-Se ainda não tem o Termux, instale-o a versão correta e funcional partir do nosso [link no Google Drive](esperando upar) ou direto do próprio [GitHub](https://github.com/termux/termux-app/releases) caso tenha baixado o arquivo .apk vá para o explorador de arquivos do seu celular e instale-o
+Se ainda não tem o Termux, instale-o a versão correta e funcional partir do nosso [link no Google Drive](https://drive.google.com/file/d/1PY4TTAwF8vCMLHeLEP6lcUAinLLMW-sk/view?usp=drivesdk) ou direto do próprio [GitHub](https://github.com/termux/termux-app/releases) caso tenha baixado o arquivo .apk vá para o explorador de arquivos do seu celular e instale-o
 
 ___
 
