@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-#Este script foi feito por Xzgn e nao deve ser usado sem o devido crédito e nem deve ser modificado sem autorização
+#Olá! tudo bem? se está aqui pode dar uma estrela no meu repo? eu sou novo por aqui então por isso tudo ser bem simples mas eu prometo que vou me esforçar pra fazer algo além de funcional!
 
 while true; do
   clear
