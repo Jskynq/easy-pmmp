@@ -1,4 +1,4 @@
-# 🚨 Script quebrado na nova atualização do termux ainda em resolução!! todas as dependências foram removidas e o script não funcionará até um hotfix
+# 🚨 Script quebrado na nova atualização do termux ainda em resolução!! todas as dependências foram removidas e o script não funcionará até uma versão hotfix
 
 
 # 🟩 Easy PMMP Termux 
