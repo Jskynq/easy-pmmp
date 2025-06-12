@@ -122,7 +122,7 @@ Isso **NÃO** vai abrir o server pra qualquer pessoa!. Só vai funcionar na sua 
 
 - Causa: Nova versão do termux na play story está com issue com o PHP
 
-Solução: Baixe a versão do GitHub mencionada na etapa 1 ou a que foi mencionada no Drive
+Solução: Baixe a versão do GitHub mencionada na etapa 1 ou do Drive
 
 
 
