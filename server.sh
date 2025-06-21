@@ -15,8 +15,16 @@ while true; do
   case $op in
     1)
       echo -e "\n🚀 Iniciando o servidor..."
-      sleep 1
-      cd ./mcserver || { echo "❌ Pasta mcserver não encontrada!"; sleep 2; continue; }
+      sleep 2
+if [ -d "./mcserver" ]; then
+    echo "Achou em ./"
+    cd "./mcserver"
+elif [ -d "$HOME/mcserver" ]; then
+    echo "Achou em ~/"
+    cd "$HOME/mcserver"
+else
+    echo "Diretório 'mcservernão encontrado :("
+fi || { echo "❌ Pasta mcserver não encontrada!"; sleep 2; continue; }
       chmod +x ./start.sh
       ./start.sh
       break
