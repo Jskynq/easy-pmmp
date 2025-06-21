@@ -16,7 +16,7 @@ while true; do
     1)
       echo -e "\n🚀 Iniciando o servidor..."
       sleep 1
-      cd ~/mcserver || { echo "❌ Pasta mcserver não encontrada!"; sleep 2; continue; }
+      cd ./mcserver || { echo "❌ Pasta mcserver não encontrada!"; sleep 2; continue; }
       chmod +x ./start.sh
       ./start.sh
       break
