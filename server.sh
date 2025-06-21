@@ -23,7 +23,7 @@ elif [ -d "$HOME/mcserver" ]; then
     echo "Achou em ~/"
     cd "$HOME/mcserver"
 else
-    echo "Diretório 'mcservernão encontrado :("
+    echo "Diretório 'mcserver não encontrado :("
 fi || { echo "❌ Pasta mcserver não encontrada!"; sleep 2; continue; }
       chmod +x ./start.sh
       ./start.sh
